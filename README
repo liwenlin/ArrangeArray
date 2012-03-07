@@ -1,0 +1,14 @@
+How to use:
+Compile the java file
+$javac ArrangeArray.java
+
+Run with parameters
+$java ArrangeArray 1 2 3 4 5 6 1
+
+The output is sorted by frequency:
+1
+2
+3
+4
+5
+6
